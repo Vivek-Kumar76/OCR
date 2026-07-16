@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+numpy
+paddlepaddle==3.2.0
+paddleocr==3.7.0
+paddlex[ocr]>=3.7.2
+python-docx
